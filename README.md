@@ -24,11 +24,11 @@ A collection of single-page front-end templates built with HTML and CSS, focused
 ```
 web-templates/
 ├── template-1/
-│   ├── Falmus.html
-│   └── FalMus.css
+│   ├── index.html
+│   └── style.css
 ├── template-2/
-│   ├── VClean.html
-│   └── VClean.css
+│   ├── index.html
+│   └── style.css
 └── README.md
 ```
 
