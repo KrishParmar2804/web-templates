@@ -4,8 +4,8 @@ A collection of single-page front-end templates built with HTML and CSS, focused
 
 ## Live Demos
 
-- **Template 1 — FALAK MUSCAT. This template is designed to suit the needs of industry leading companies looking to do trade and investment accross international markets and businesses.**: `https://KrishParmar2804.github.io/web-templates/template-1/`
-- **Template 2 — VCLEAN. This template is for cleaning company used to take orders and contracts for high profile cleaning and management.**: `https://KrishParmar2804.github.io/web-templates/template-2/`
+- **Template 1 — FALAK MUSCAT. This template is designed to suit the needs of industry leading companies looking to trade and invest accross international markets and businesses.**: `https://KrishParmar2804.github.io/web-templates/template-1/`
+- **Template 2 — VCLEAN. This template is for a cleaning company used to take orders and contracts for high profile cleaning and management.**: `https://KrishParmar2804.github.io/web-templates/template-2/`
 
 ## Features
 
